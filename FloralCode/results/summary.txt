@@ -1,0 +1,2 @@
+rice: 1000 genes/transcripts, 2 samples
+rose: 1000 genes/transcripts, 2 samples
